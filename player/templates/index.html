@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script src="/static/jquery.min.js"></script>
+<div>
+    <p>
+        客户端号: <input type="text" name="client" id="client">
+    </p>
+    <p>
+        分   数: <input type="text" name="score" id="score">
+    </p>
+    <p id="show"></p>
+    <p>
+        <input type="button" id="btn" value="提交">
+        <button id="find">查询</button>
+    </p>
+</div>
+
+<script>
+    $(function(){
+        $('#btn').click(function(){
+                var params = {
+                    client:$('#client').val(),
+                    score:$('#score').val()
+                }
+                $.post('/chart/index',params,function(response){
+                    console.log(response.msg);
+                    $('#show').html(response.msg);
+                },'json')
+        })
+        $('#find').click(function(){
+            $.get('/chart/findserver',function(response){
+                console.log(response.msg);
+                window.location.href = response.msg;
+            },'json')
+        })
+    })
+</script>
+
+</body>
+</html>

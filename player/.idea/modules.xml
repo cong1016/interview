@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/ajax/.idea/ajax.iml" filepath="$USER_HOME$/ajax/.idea/ajax.iml" />
+      <module fileurl="file://$USER_HOME$/client/.idea/client.iml" filepath="$USER_HOME$/client/.idea/client.iml" />
+      <module fileurl="file://$USER_HOME$/project/dada/.idea/dada.iml" filepath="$USER_HOME$/project/dada/.idea/dada.iml" />
+      <module fileurl="file://$USER_HOME$/django/.idea/django.iml" filepath="$USER_HOME$/django/.idea/django.iml" />
+      <module fileurl="file://$USER_HOME$/django/mysite3/.idea/mysite3.iml" filepath="$USER_HOME$/django/mysite3/.idea/mysite3.iml" />
+      <module fileurl="file://$USER_HOME$/django/mysite4/.idea/mysite4.iml" filepath="$USER_HOME$/django/mysite4/.idea/mysite4.iml" />
+      <module fileurl="file://$USER_HOME$/django/mysite5/.idea/mysite5.iml" filepath="$USER_HOME$/django/mysite5/.idea/mysite5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/player.iml" filepath="$PROJECT_DIR$/.idea/player.iml" />
+      <module fileurl="file://$USER_HOME$/gitee/rankinglistserver/.idea/rankinglistserver.iml" filepath="$USER_HOME$/gitee/rankinglistserver/.idea/rankinglistserver.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ed23f93-63bb-4db9-a410-a74d85d32f09" name="Default Changelist" comment="">
+      <change beforePath="$USER_HOME$/gitee/rankinglistserver/mytest/apps/user/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/gitee/rankinglistserver/mytest/apps/user/migrations/0002_players.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/gitee/rankinglistserver/mytest/apps/user/urls.py" beforeDir="false" afterPath="$USER_HOME$/gitee/rankinglistserver/mytest/apps/user/urls.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/gitee/rankinglistserver/mytest/apps/user/views.py" beforeDir="false" afterPath="$USER_HOME$/gitee/rankinglistserver/mytest/apps/user/views.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/gitee/rankinglistserver/mytest/manage.py" beforeDir="false" afterPath="$USER_HOME$/gitee/rankinglistserver/mytest/manage.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/gitee/rankinglistserver/mytest/mytest/settings/__init__.py" beforeDir="false" afterPath="$USER_HOME$/gitee/rankinglistserver/mytest/mytest/settings.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/gitee/rankinglistserver/mytest/mytest/settings/dev.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/gitee/rankinglistserver/mytest/mytest/settings/pro.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/gitee/rankinglistserver" />
+  </component>
+  <component name="ProjectId" id="1ZWEesIKnV9oa2N35E2j684fUG3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ed23f93-63bb-4db9-a410-a74d85d32f09" name="Default Changelist" comment="" />
+      <created>1584946547789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584946547789</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="673" y="223" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584953016415">
+      <screen x="81" y="30" width="1839" height="1050" />
+    </state>
+    <state x="673" y="223" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/81.30.1839.1050@81.30.1839.1050" timestamp="1584953016415" />
+    <state x="689" y="236" key="FileChooserDialogImpl" timestamp="1585037738958">
+      <screen x="81" y="30" width="1839" height="1050" />
+    </state>
+    <state x="689" y="236" key="FileChooserDialogImpl/81.30.1839.1050@81.30.1839.1050" timestamp="1585037738958" />
+    <state x="408" y="86" key="SettingsEditor" timestamp="1585032526359">
+      <screen x="81" y="30" width="1839" height="1050" />
+    </state>
+    <state x="408" y="86" key="SettingsEditor/81.30.1839.1050@81.30.1839.1050" timestamp="1585032526359" />
+    <state x="517" y="331" key="com.intellij.ide.util.TipDialog" timestamp="1585030985391">
+      <screen x="81" y="30" width="1839" height="1050" />
+    </state>
+    <state x="517" y="331" key="com.intellij.ide.util.TipDialog/81.30.1839.1050@81.30.1839.1050" timestamp="1585030985391" />
+  </component>
+</project>
